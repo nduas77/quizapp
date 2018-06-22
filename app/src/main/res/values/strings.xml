@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1_textview">Who is regarded as the originator of the quantum theory?</string>
+    <string name="question1_label_textview">Question 1</string>
+    <string name="neils_bohr_radiobutton">Niels bohr</string>
+    <string name="albert_einstein_radiobutton">Albert Einstein</string>
+    <string name="max_planck_radiobutton">Max Planck</string>
+    <string name="charles_darwin_radiobutton">Charles Darwin</string>
+    <string name="question2_label_textview">Question 2</string>
+    <string name="question2_textview">Which ones are among Isaac Newton\'s accomplishments?</string>
+    <string name="inventing_calculus_checkbox">Inventing calculus</string>
+    <string name="discovering_gravity_checkbox">Discovering gravity</string>
+    <string name="discovering_the_atomic_structure_checkbox">Discovering the atomic structure</string>
+    <string name="discovering_the_colour_spectrum_checkbox">Discovering the colour spectrum</string>
+    <string name="question3_label_textview">Question 3</string>
+    <string name="question3_textview">Which picture depicts Niels Bohr?</string>
+    <string name="albert_einstein_radiobutton2">Albert Einstein</string>
+    <string name="marie_curie_radiobutton">Marie Curie</string>
+    <string name="thomas_edison_radiobutton">Thomas Edison</string>
+    <string name="nikola_tesla_radiobutton">Nikola Tesla</string>
+    <string name="question4_label_textview">Question 4</string>
+    <string name="question4_textview">Who among the following was awarded with the Nobel prize more than once?</string>
+    <string name="question5_textview">What is the second name of the famous Italian scientist, Galileo, who was among many things known for making telescopes?</string>
+    <string name="question5_label_textview">Question 5</string>
+    <string name="galileo_s_second_name_hint">Galileo\'s second name</string>
+    <string name="submit_responses_button">Submit responses</string>
+</resources>
